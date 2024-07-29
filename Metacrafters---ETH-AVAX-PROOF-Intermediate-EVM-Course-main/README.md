@@ -34,7 +34,7 @@ the contract was developed using Remix IDE. So, the entire project was developed
 
 1. Open the Remix IDE and navigate to the "Solidity Compiler" tab.
 2. Select the appropriate compiler version (e.g., 0.8.26).
-3. Click on "Compile Game.sol" to compile the contract.
+3. Click on "Compile VideoGameStore.sol" to compile the contract.
 
 ### Deploy
 
